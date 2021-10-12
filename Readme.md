@@ -1,7 +1,6 @@
-#API Rest de buscar CEP
+# API Rest de buscar CEP
 
-##Bootcamp QA Everis na Digital Innovation One
+## Bootcamp QA Everis na Digital Innovation One
 
-###Java
-###Spring
+### Java - Spring - IntelliJ
 
